@@ -7,7 +7,7 @@ This a beginner level project that uses Python as an interface to access the dat
 ## MYSQL DATABASES & TABLES
 -   DATABASE:  company
 -   TABLES:  login and empl
-> Use the commands from the file "SQL_table_empl.txt" in MySQL to get a replica the database company.
+> Use the commands from the file `SQL_table_empl.txt` in MySQL to get a replica the database company.
 
 ## FEATURES
 -	Login Form
