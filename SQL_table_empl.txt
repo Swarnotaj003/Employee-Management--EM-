@@ -4,7 +4,7 @@ USE company;
 
 CREATE TABLE login(userid varchar(255),password varchar(255));
 
-INSERT INTO login VALUES('Swarnotaj','cs69py'),('Tarang','Password:)'),('Basanta','lol9988');
+INSERT INTO login VALUES('Swarnotaj','cs69py'),('Tarang','Password:)',('Basanta','lol9988');
 
 CREATE TABLE empl(empno decimal(4),ename varchar(30),job varchar(30),hiredate date,sal decimal(10,2),comm decimal(10,2),PRIMARY KEY(empno));
 
